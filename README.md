@@ -1,8 +1,7 @@
 # Awesome Visio
-[![Awesome] ](media/badge-flat2.svg)
 
-![alt text](https://github.com/bhdicaire/awesone-visio/raw/main/logo.png "Logo")
-![alt text](https://github.com/bhdicaire/awesone-visio/raw/main/media/badge-flat2.png "Awesome")
+![alt text](https://github.com/bhdicaire/awesome-visio/raw/main/logo.png "Logo")
+![alt text](https://github.com/bhdicaire/awesome-visio/raw/main/media/badge-flat2.png "Awesome")
 
 A curated list of awesome resources and cool stuff about [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio). Thanks to all contributors, you're awesome and it wouldn't be possible without you!
 
@@ -13,15 +12,18 @@ A curated list of awesome resources and cool stuff about [Microsoft Visio](https
   - [IT Vendors](#itvendors)
   - [IT Vendors Legacies](#itvendorslegacies)
   - [Methodologies](#methodologies)
-- [Programming Languages](#programming-languages)
+- [Training](#training)
+- [Related](#related)
 
-## IT Generic
+### Shapes
+
+#### IT Generic
 
 - [ECCEMAN: 2D symbols for computer network diagrams](https://github.com/ecceman/affinity)
 - [MTMnet.com's Visio Icon & Stencil Library](https://mtmnet.com/visio_icons.htm)
 - [OpenVAS](http://www.openvas.org/) - OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.
 
-## IT Vendors
+#### IT Vendors
 
 - [AWS](https://aws.amazon.com/architecture/icons/)
 - [BlackBox](https://www.black-box.de/en-de/page/20730/Resources/Technical-Resources/visio-stencils)
@@ -49,12 +51,12 @@ A curated list of awesome resources and cool stuff about [Microsoft Visio](https
   - [Design Decisions for VMware Validated Designs](https://github.com/rainpole/vvd-design-decisions)
 - [VTR Systems](https://www.vrt.com.au/downloads/vrt-network-equipment), [GitHub](https://github.com/pafnow/vrt-stencil-for-visio) and [bitbucket](https://bitbucket.org/vrtsystems/odf-extension-vrt-network-equipment/src/master/)
 
-## IT Vendors (legacy)
+#### IT Vendors (legacy)
 
 - [Avaya](https://support.avaya.com/helpcenter/getGenericDetails?detailId=C20097681410857094)
 - [QNAP](https://marketing.qnap.com/resource/qnap-visio-stencils/)
 
-## Methodologies
+#### Methodologies
 
 - [C4](https://github.com/pihalve/c4model-visio-stencil)
 - [ADAPT™ (Application Design for Analytical Processing Technologies)](http://www.symcorp.com/tech_expertise_design.html)
@@ -69,16 +71,16 @@ A curated list of awesome resources and cool stuff about [Microsoft Visio](https
 - [UML 2.5](http://www.softwarestencils.com/uml/index.html)
 
 
-## Miscellaneous
+#### Miscellaneous
 
 - [PAUL HERBER SOFTWARE](https://www.paulherber.co.uk/free-visio-shapes/)
  - [Domotic and IOT](https://github.com/rrobinet/Visio-Stencils)
 
-## UX
+#### UX
 
 - [Paper Plane: IA tools](http://www.paperplane.net/omnigraffle/)
 - [UK Government Digital Service (GDS)](https://github.com/Cloud-Awesome/gds-wireframe-stencils) and [Design System](https://design-system.service.gov.uk/)
 
-## Related
+#### Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
