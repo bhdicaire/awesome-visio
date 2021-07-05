@@ -1,30 +1,19 @@
-# Awesome Security
+# Awesome Visio
 [![Awesome] ](media/badge-flat2.svg)
 
-<div align="center">
-	<img width="500" height="350" src="media/badge-flat2.svg" alt="Awesome">
-	<br>
-	<br>
-	<hr>
+![alt text](https://github.com/bhdicaire/awesone-visio/raw/main/logo.png "Logo")
+![alt text](https://github.com/bhdicaire/awesone-visio/raw/main/media/badge-flat2.png "Awesome")
 
-A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
-A curated list of
-community-driven
-
-Thanks to all contributors, you're awesome and it wouldn't be possible without you! The goal is to build a categorized  collection of very well-known resources.
+A curated list of awesome resources and cool stuff about [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio). Thanks to all contributors, you're awesome and it wouldn't be possible without you!
 
 ## Contents
 
-- [Platforms](#platforms)
+- [Shapes](#shapes)
+  - [IT Generic](#itgeneric)
+  - [IT Vendors](#itvendors)
+  - [IT Vendors Legacies](#itvendorslegacies)
+  - [Methodologies](#methodologies)
 - [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-
-
-# Stencils
-
-[Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio) users is a big [community](https://techcommunity.microsoft.com/t5/visio/ct-p/Visio), you can find them on many platforms including [reddit](https://www.reddit.com/r/Visio/).
 
 ## IT Generic
 
