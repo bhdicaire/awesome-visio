@@ -1,6 +1,5 @@
 # Awesome Visio
 
-![alt text](https://github.com/bhdicaire/awesome-visio/raw/main/logo.png "Logo")
 ![alt text](https://github.com/bhdicaire/awesome-visio/raw/main/media/badge-flat2.svg "Awesome")
 
 A curated list of awesome resources and cool stuff about [Microsoft Visio](https://www.microsoft.com/en-ca/microsoft-365/visio). Thanks to all contributors, you're awesome and it wouldn't be possible without you!
