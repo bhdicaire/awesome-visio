@@ -84,4 +84,4 @@ If you prefer to fork my 4,500 visio 🎨 shapes to visually represent IT infras
 
 #### Related
 
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
+- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub .
